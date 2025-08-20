@@ -5,7 +5,7 @@
 - 📫 Contate-me nos emails e número de telefone: israeladryan472@hotmail.com, israeladryan4725@gmail.com, (84) 98815-6532.
 
 <div align="center">
-  <img height="150" src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1iemhiemxwdXZxaHlkczkxNW51b29ubmZxMTFmemc1YXQ2MmhxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rmu0SUVH8l1du/giphy.gif"](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlhcm4ybHh5dHFiZ3pkcXNzaTFqeG5zNG0wb2RrcTk0Zndpc28yMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t6Z3RvZzZoczV2eWtqZzd4ZjBvaWFjbnd0ZHdtM3Z5aTYxdGdjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" />
 </div>
 
 ###

@@ -4,14 +4,14 @@
 - 🌱 Formado em Análise e Desenvolvimento de Sistemas (2025), buscando por estágios, trainees ou demais vagas a desejo do solicitante.
 - 📫 Contate-me nos emails e número de telefone: israeladryan472@hotmail.com, israeladryan4725@gmail.com, (84) 98815-6532.
 
-<div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t6Z3RvZzZoczV2eWtqZzd4ZjBvaWFjbnd0ZHdtM3Z5aTYxdGdjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" />
-</div>
+<img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJpcnBnc3N0bmtsYWw4cTh1NXR1YTlrOG5ja3BrbWt3NGlnYjNvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/israel-adryan-4bb741219" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -69,6 +69,14 @@
 ###
 
 <h3 align="left">🔥 Status:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=IsraelAdryan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 ###
 
